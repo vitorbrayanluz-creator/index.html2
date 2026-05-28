@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho 2026</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Menu de Navegação -->
+    <header>
+        <nav>
+            <div class="logo">🌱 Meu Projeto Agrinho</div>
+            <ul>
+                <li><a href="#sobre">O Problema</a></li>
+                <li><a href="#dados">Dados Reais</a></li><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho 2026</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Menu de Navegação -->
+    <header>
+        <nav>
+            <div class="logo">🌱 Meu Projeto Agrinho</div>
+            <ul>
+                <li><a href="#sobre">O Problema</a></li>
+                <li><a href="#dados">Dados Reais</a></li>
+                <li><a href="#solucao">Nossa Solução</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo Principal do Site -->
+    <main>
+        <!-- Seção 1: Introdução Autoral -->
+        <section id="sobre">
+            <h1>Sustentabilidade no Campo</h1>
+            <p>Escreva aqui sobre o problema que você escolheu resolver no campo ou na sua escola rural.</p>
+        </section>
+
+        <!-- Seção 2: Dados Oficiais (Conselho da Aula) -->
+        <section id="dados">
+            <h2>O que os dados dizem</h2>
+            <p>Segundo informações oficiais obtidas do IBGE, a tecnologia e a sustentabilidade transformam o trabalho rural.</p>
+        </section>
+
+        <!-- Seção 3: Solução do Projeto -->
+        <section id="solucao">
+            <h2>Nossa Solução Criativa</h2>
+            <p>Aqui você vai explicar a sua ideia original para ajudar a resolver a situação-problema.</p>
+        </section>
+    </main>
+
+    <!-- Rodapé com Uso Ético de Fontes -->
+    <footer>
+        <p>&copy; 2026 - Desenvolvido de forma autoral para o Concurso Agrinho.</p>
+        <p>Fontes de dados: IBGE | Imagens: Criação própria / Bancos Livres (CC)</p>
+    </footer>
+
+</body>
+</html>
+                <li><a href="#solucao">Nossa Solução</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo Principal do Site -->
+    <main>
+        <!-- Seção 1: Introdução Autoral -->
+        <section id="sobre">
+            <h1>Sustentabilidade no Campo</h1>
+            <p>Escreva aqui sobre o problema que você escolheu resolver no campo ou na sua escola rural.</p>
+        </section>
+
+        <!-- Seção 2: Dados Oficiais (Conselho da Aula) -->
+        <section id="dados">
+            <h2>O que os dados dizem</h2>
+            <p>Segundo informações oficiais obtidas do IBGE, a tecnologia e a sustentabilidade transformam o trabalho rural.</p>
+        </section>
+
+        <!-- Seção 3: Solução do Projeto -->
+        <section id="solucao">
+            <h2>Nossa Solução Criativa</h2>
+            <p>Aqui você vai explicar a sua ideia original para ajudar a resolver a situação-problema.</p>
+        </section>
+    </main>
+
+    <!-- Rodapé com Uso Ético de Fontes -->
+    <footer>
+        <p>&copy; 2026 - Desenvolvido de forma autoral para o Concurso Agrinho.</p>
+        <p>Fontes de dados: IBGE | Imagens: Criação própria / Bancos Livres (CC)</p>
+    </footer>
+
+</body>
+</html>
